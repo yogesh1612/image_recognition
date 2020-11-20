@@ -1,5 +1,5 @@
-#install.packages("shiny")
-#library("shiny")
+install.packages("shiny")
+library("shiny")
 install.packages("tensorflow")
 library(tensorflow)
 install_tensorflow()
