@@ -1,0 +1,12 @@
+name: image_recognition
+title: image_recognition
+username:
+account: sudhir-voleti
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3272933
+bundleId: 3884539
+url: https://sudhir-voleti.shinyapps.io/image_recognition/
+when: 1605871569.98133
+asMultiple: FALSE
+asStatic: FALSE
