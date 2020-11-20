@@ -1,4 +1,8 @@
+install.packages("shiny")
+library("shiny")
 install.packages("tensorflow")
 library(tensorflow)
 install_tensorflow()
+install.packages("keras")
+library("keras")
 install.packages("wordcloud")
